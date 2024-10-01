@@ -1,0 +1,13 @@
+//----core concepts---//
+introduction To Es6
+1.var let const;
+2.scope in javaScript;
+3.template string;
+4.ternary operator;
+5.Array |Spreading;
+6.object Spreading;
+7.object Spreading;
+8.optional chaining of object;
+9.Function with default parameter;
+10.Arrow Function;
+11.Array Foreach, Map, Filter, Find, Function;
